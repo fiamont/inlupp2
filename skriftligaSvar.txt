@@ -1,0 +1,2 @@
+Svar på fråga 1:
+Pilarna innebär att klasserna Owl och Squirrel ärver från den abstrakta klassen Animal.
